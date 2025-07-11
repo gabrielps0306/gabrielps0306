@@ -1,7 +1,7 @@
 
-# 👋**Bienvenido! Mi nombre es Gabriel**🔥
+# 👋**Bienvenido!**🔥🔥
 
-### **Soy un estudiante de Ingenieria En Sistemas con ganas de seguir mejorando y aprendiendo** 😎😎
+### **Mi nombre es Gabriel Paredes Sipe y soy un estudiante de Ingenieria En Sistemas con ganas de seguir mejorando y aprendiendo** 😎😎
 
 #### ***A veces me pierdo en el codigo...pero con buena musica me reencuentro***🎧💻
 
