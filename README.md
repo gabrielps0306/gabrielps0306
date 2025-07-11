@@ -5,4 +5,4 @@
 <blockquote>
   <p>A veces me pierdo en el codigo...pero con buena musica me reencuentro🎧💻</p>
 </blockquote>
-![](https://nocodestartup.io/wp-content/uploads/2023/09/aprender-a-programar.png)
+!([https://nocodestartup.io/wp-content/uploads/2023/09/aprender-a-programar.png](https://beecrowd.com/es/blog-posts/paradigmas-de-programacion/))
