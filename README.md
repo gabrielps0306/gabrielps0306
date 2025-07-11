@@ -5,4 +5,4 @@
 
 #### ***A veces me pierdo en el codigo...pero con buena musica me reencuentro***🎧💻
 
-![Aprender a programar]([https://nocodestartup.io/wp-content/uploads/2023/09/aprender-a-programar.png](https://img.freepik.com/vector-premium/pequeno-mini-teclado-inscripcion-programacion-desarrollador-concepto-desarrollador-vector-isometrico_681307-297.jpg))
+![Aprender a programar](https://www.educaciontrespuntocero.com/wp-content/uploads/2021/02/Apps-y-juegos-para-aprender-a-programar-1200x800.jpg)
